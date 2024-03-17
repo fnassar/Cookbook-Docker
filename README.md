@@ -31,7 +31,7 @@
 
 ## Deployed App on Digital Ocean
 Find our deployed web app here: [Cook Book](https://cookbook-zkup6.ondigitalocean.app/).
-> this app is no longer deployed there, you can use the docker imgage to deploy locally.
+> this app is no longer deployed there, you can use the docker image to deploy locally.
 
 ## Docker Hub Image
 Find our Docker Hub image for the project [here](https://hub.docker.com/repository/docker/ma5938/cookbook). 
